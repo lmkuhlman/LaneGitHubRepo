@@ -11,6 +11,7 @@ preferences within our organization.
 * **Consistency:** Adhering to a consistent style across all projects improves
   collaboration and reduces errors.
 * **Performance:** While readability is paramount, code should be efficient.
+* **Formatting:** Each statement is followed by a line break.
 
 # Deviations from PEP 8
 
